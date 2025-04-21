@@ -15,6 +15,7 @@
     padding: 10px;
     display: inline-block;
     margin: auto;
+    
 }
 
 .light {
@@ -23,6 +24,7 @@
     margin: 10px;
     background: blue;
     border-radius: 50%;
+    cursor: pointer;
 }
 
 .red {background: red;} 
